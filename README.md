@@ -153,18 +153,14 @@
 
 [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
 
-![alt text](https://github.com/momodezhou/servlet-by-vim/master/index.jpg "首页展示的详情")
-
-
-
-
+![alt text](index.jpg "首页展示的详情")
 
 
 
 [http://127.0.0.1:8080/hello](http://127.0.0.1:8080/hello)
 
 
- ![图片描述](https://github.com/momodezhou/servlet-by-vim/master/hello.jpg)
+ ![图片描述](hello.jpg)
 
 
 
