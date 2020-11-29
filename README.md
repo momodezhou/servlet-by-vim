@@ -153,7 +153,7 @@
 
 [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
 
-![alt text](./index.jpg "首页展示的详情")
+![alt text](https://github.com/momodezhou/servlet-by-vim/blob/master/index.jpg "首页展示的详情")
 
 
 
@@ -162,7 +162,7 @@
 
 [http://127.0.0.1:8080/hello](http://127.0.0.1:8080/hello)
 
-<img src="hello.jpg" alt="接口显示" width="400px" height="200px" style="margin:0"> 
+<img src="https://github.com/momodezhou/servlet-by-vim/blob/master/hello.jpg" alt="接口显示" width="400px" height="200px" style="margin:0"> 
 
 
 
